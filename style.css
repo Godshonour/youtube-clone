@@ -282,4 +282,7 @@ p{
   .video-grid{
     grid-template-columns: 1fr;
   }
+  .side-bar{
+    display: none;
+  }
 }

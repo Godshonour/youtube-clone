@@ -284,5 +284,7 @@ p{
   }
   .side-bar{
     display: none;
+    top: 0;
+    width: 0;
   }
 }
